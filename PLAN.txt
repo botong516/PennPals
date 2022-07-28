@@ -1,0 +1,58 @@
+=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+CIS 120 HW05 README
+PennKey: _______
+=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+
+============
+=: Task 2 :=
+============
+
+- Do you plan on creating any new classes in your design? If so, what classes
+  are you making, what do they store, and what behaviors do they have?
+
+- How do you plan on storing what users are registered on the server?
+
+- How do you plan on keeping track of which user has which user ID, considering
+  the fact that the user's nickname can change over the course of the program?
+
+- How do you plan on storing what users are in a channel?
+
+- How do you plan on keeping track of which user is the owner of each channel?
+
+- Justify your choice of collections (Set, Map, or List) for the
+  collections you use in your design.
+
+
+============
+=: Task 3 :=
+============
+
+- Did you make any changes to your design while doing this task? Why?
+
+
+============
+=: Task 4 :=
+============
+
+- Did you make any changes to your design while doing this task? Why?
+
+
+============
+=: Task 5 :=
+============
+
+- How do you plan on keeping track of which channels are invite-only?
+
+- Will you make any changes to your work from before in order to make
+  implementing invite-only channels easier?
+
+
+============
+=: Task 6 :=
+============
+
+- Did you have to make any changes to your design in Task 6? Why?
+
+- If you were to redo this assignment, what changes (if any) would you make in
+  how you designed your code?
+
